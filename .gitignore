@@ -114,3 +114,4 @@ dmypy.json
 # Project-specific ignores
 data/*
 !data/.gitkeep
+.DS_Store
